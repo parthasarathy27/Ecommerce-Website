@@ -36,7 +36,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Acknowledgements
 
-- Special thanks to [GitHub](https://github.com/) for hosting this project.
-- Built with love by [Your Name] and contributors.
+- Special thanks to [GitHub](https://parthasarathy27.github.io/Ecommerce-Website/) for hosting this project.
+- Built with love to contributors.
 
 Happy shopping with EinkaufMart! 🛒🎉
