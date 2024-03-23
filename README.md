@@ -39,4 +39,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - Special thanks to [GitHub](https://parthasarathy27.github.io/Ecommerce-Website/) for hosting this project.
 - Built with love to contributors.
 
-Happy shopping with EinkaufMart! 🛒🎉
+Happy shopping with [EinkaufMart!](https://parthasarathy27.github.io/Ecommerce-Website/) 🛒🎉
